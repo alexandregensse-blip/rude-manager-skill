@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" width="720" height="400" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' role="img" aria-label="Quality against cost by technique and effort">
+<rect width="720" height="400" rx="8" fill="#fcfcfb"/>
+<text x="24.0" y="34.0" fill="#0b0b0b" font-size="17" text-anchor="start" font-weight="600">Quality against cost</text>
+<text x="24.0" y="56.0" fill="#52514e" font-size="13" text-anchor="start" font-weight="normal">two runs per point; cost on a log scale</text>
+<circle cx="30.0" cy="76.0" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="42.0" y="80.0" fill="#52514e" font-size="13" text-anchor="start" font-weight="normal">/goal</text>
+<rect x="106.5" y="70.5" width="11" height="11" rx="2" fill="#eb6834" stroke="#fcfcfb" stroke-width="2"/>
+<text x="124.0" y="80.0" fill="#52514e" font-size="13" text-anchor="start" font-weight="normal">/rude</text>
+<path d="M194.0 69.0 L201.0 76.0 L194.0 83.0 L187.0 76.0 Z" fill="#1baf7a" stroke="#fcfcfb" stroke-width="2"/>
+<text x="206.0" y="80.0" fill="#52514e" font-size="13" text-anchor="start" font-weight="normal">/rude + harassment</text>
+<line x1="64" x2="688" y1="344.0" y2="344.0" stroke="#c3c2b7" stroke-width="1"/>
+<text x="56.0" y="348.0" fill="#898781" font-size="12" text-anchor="end" font-weight="normal">0</text>
+<line x1="64" x2="688" y1="299.0" y2="299.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="56.0" y="303.0" fill="#898781" font-size="12" text-anchor="end" font-weight="normal">0.25</text>
+<line x1="64" x2="688" y1="254.0" y2="254.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="56.0" y="258.0" fill="#898781" font-size="12" text-anchor="end" font-weight="normal">0.5</text>
+<line x1="64" x2="688" y1="209.0" y2="209.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="56.0" y="213.0" fill="#898781" font-size="12" text-anchor="end" font-weight="normal">0.75</text>
+<line x1="64" x2="688" y1="164.0" y2="164.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="56.0" y="168.0" fill="#898781" font-size="12" text-anchor="end" font-weight="normal">1</text>
+<line x1="64" x2="688" y1="119.0" y2="119.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="56.0" y="123.0" fill="#898781" font-size="12" text-anchor="end" font-weight="normal">1.25</text>
+<line x1="101.7" x2="101.7" y1="92" y2="344" stroke="#e1e0d9" stroke-width="1"/>
+<text x="101.7" y="362.0" fill="#898781" font-size="12" text-anchor="middle" font-weight="normal">$0.25</text>
+<line x1="219.0" x2="219.0" y1="92" y2="344" stroke="#e1e0d9" stroke-width="1"/>
+<text x="219.0" y="362.0" fill="#898781" font-size="12" text-anchor="middle" font-weight="normal">$0.5</text>
+<line x1="336.2" x2="336.2" y1="92" y2="344" stroke="#e1e0d9" stroke-width="1"/>
+<text x="336.2" y="362.0" fill="#898781" font-size="12" text-anchor="middle" font-weight="normal">$1</text>
+<line x1="453.5" x2="453.5" y1="92" y2="344" stroke="#e1e0d9" stroke-width="1"/>
+<text x="453.5" y="362.0" fill="#898781" font-size="12" text-anchor="middle" font-weight="normal">$2</text>
+<line x1="570.7" x2="570.7" y1="92" y2="344" stroke="#e1e0d9" stroke-width="1"/>
+<text x="570.7" y="362.0" fill="#898781" font-size="12" text-anchor="middle" font-weight="normal">$4</text>
+<line x1="688.0" x2="688.0" y1="92" y2="344" stroke="#e1e0d9" stroke-width="1"/>
+<text x="688.0" y="362.0" fill="#898781" font-size="12" text-anchor="middle" font-weight="normal">$8</text>
+<text x="376.0" y="384.0" fill="#52514e" font-size="13" text-anchor="middle" font-weight="normal">estimated cost per run (Opus 5.5 list prices)</text>
+<text transform="translate(20 218.0) rotate(-90)" fill="#52514e" font-size="13" text-anchor="middle">quality</text>
+<polyline points="108.4,324.2 334.5,252.2 449.2,201.8" fill="none" stroke="#2a78d6" stroke-width="2" stroke-opacity="0.45"/>
+<polyline points="247.0,302.6 549.1,160.4 643.5,135.2" fill="none" stroke="#eb6834" stroke-width="2" stroke-opacity="0.45"/>
+<polyline points="238.2,272.0 460.9,176.6 644.9,189.2" fill="none" stroke="#1baf7a" stroke-width="2" stroke-opacity="0.45"/>
+<g><title>/goal, effort low: quality 0.11, $0.26</title><circle cx="108.4" cy="324.2" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+</g><text x="117.4" y="314.2" fill="#52514e" font-size="11" text-anchor="start" font-weight="normal">low</text>
+<g><title>/goal, effort medium: quality 0.51, $0.99</title><circle cx="334.5" cy="252.2" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+</g><text x="343.5" y="242.2" fill="#52514e" font-size="11" text-anchor="start" font-weight="normal">medium</text>
+<g><title>/goal, effort high: quality 0.79, $1.95</title><circle cx="449.2" cy="201.8" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+</g><text x="458.2" y="191.8" fill="#52514e" font-size="11" text-anchor="start" font-weight="normal">high</text>
+<g><title>/rude, effort low: quality 0.23, $0.59</title><rect x="241.5" y="297.1" width="11" height="11" rx="2" fill="#eb6834" stroke="#fcfcfb" stroke-width="2"/>
+</g><text x="256.0" y="318.6" fill="#52514e" font-size="11" text-anchor="start" font-weight="normal">low</text>
+<g><title>/rude, effort medium: quality 1.02, $3.52</title><rect x="543.6" y="154.9" width="11" height="11" rx="2" fill="#eb6834" stroke="#fcfcfb" stroke-width="2"/>
+</g><text x="558.1" y="150.4" fill="#52514e" font-size="11" text-anchor="start" font-weight="normal">medium</text>
+<g><title>/rude, effort high: quality 1.16, $6.15</title><rect x="638.0" y="129.7" width="11" height="11" rx="2" fill="#eb6834" stroke="#fcfcfb" stroke-width="2"/>
+</g><text x="652.5" y="125.2" fill="#52514e" font-size="11" text-anchor="start" font-weight="normal">high</text>
+<g><title>/rude + harassment, effort low: quality 0.40, $0.56</title><path d="M238.2 265.0 L245.2 272.0 L238.2 279.0 L231.2 272.0 Z" fill="#1baf7a" stroke="#fcfcfb" stroke-width="2"/>
+</g><text x="247.2" y="262.0" fill="#52514e" font-size="11" text-anchor="start" font-weight="normal">low</text>
+<g><title>/rude + harassment, effort medium: quality 0.93, $2.09</title><path d="M460.9 169.6 L467.9 176.6 L460.9 183.6 L453.9 176.6 Z" fill="#1baf7a" stroke="#fcfcfb" stroke-width="2"/>
+</g><text x="469.9" y="166.6" fill="#52514e" font-size="11" text-anchor="start" font-weight="normal">medium</text>
+<g><title>/rude + harassment, effort high: quality 0.86, $6.20</title><path d="M644.9 182.2 L651.9 189.2 L644.9 196.2 L637.9 189.2 Z" fill="#1baf7a" stroke="#fcfcfb" stroke-width="2"/>
+</g><text x="653.9" y="205.2" fill="#52514e" font-size="11" text-anchor="start" font-weight="normal">high</text>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" width="720" height="400" font-family='system-ui, -apple-system, "Segoe UI", sans-serif' role="img" aria-label="Yield by technique and effort">
+<rect width="720" height="400" rx="8" fill="#1a1a19"/>
+<text x="24.0" y="34.0" fill="#ffffff" font-size="17" text-anchor="start" font-weight="600">Yield by effort (higher is better)</text>
+<text x="24" y="56" fill="#c3c2b7" font-size="13">yield = quality / cost<tspan baseline-shift="super" font-size="10">0.88</tspan></text>
+<rect x="24" y="70" width="12" height="12" rx="3" fill="#3987e5"/>
+<text x="42.0" y="80.0" fill="#c3c2b7" font-size="13" text-anchor="start" font-weight="normal">/goal</text>
+<rect x="106" y="70" width="12" height="12" rx="3" fill="#d95926"/>
+<text x="124.0" y="80.0" fill="#c3c2b7" font-size="13" text-anchor="start" font-weight="normal">/rude</text>
+<rect x="188" y="70" width="12" height="12" rx="3" fill="#199e70"/>
+<text x="206.0" y="80.0" fill="#c3c2b7" font-size="13" text-anchor="start" font-weight="normal">/rude + harassment</text>
+<line x1="56" x2="696" y1="348.0" y2="348.0" stroke="#383835" stroke-width="1"/>
+<text x="48.0" y="352.0" fill="#898781" font-size="12" text-anchor="end" font-weight="normal">0.0</text>
+<line x1="56" x2="696" y1="284.0" y2="284.0" stroke="#2c2c2a" stroke-width="1"/>
+<text x="48.0" y="288.0" fill="#898781" font-size="12" text-anchor="end" font-weight="normal">0.2</text>
+<line x1="56" x2="696" y1="220.0" y2="220.0" stroke="#2c2c2a" stroke-width="1"/>
+<text x="48.0" y="224.0" fill="#898781" font-size="12" text-anchor="end" font-weight="normal">0.4</text>
+<line x1="56" x2="696" y1="156.0" y2="156.0" stroke="#2c2c2a" stroke-width="1"/>
+<text x="48.0" y="160.0" fill="#898781" font-size="12" text-anchor="end" font-weight="normal">0.6</text>
+<line x1="56" x2="696" y1="92.0" y2="92.0" stroke="#2c2c2a" stroke-width="1"/>
+<text x="48.0" y="96.0" fill="#898781" font-size="12" text-anchor="end" font-weight="normal">0.8</text>
+<text x="162.7" y="372.0" fill="#c3c2b7" font-size="13" text-anchor="middle" font-weight="normal">effort low</text>
+<path d="M106.7 348 V233.6 Q106.7 229.6 110.7 229.6 H138.7 Q142.7 229.6 142.7 233.6 V348 Z" fill="#3987e5"><title>/goal, effort low: 0.37</title></path>
+<text x="124.7" y="223.6" fill="#c3c2b7" font-size="12" text-anchor="middle" font-weight="normal">0.37</text>
+<path d="M144.7 348 V233.6 Q144.7 229.6 148.7 229.6 H176.7 Q180.7 229.6 180.7 233.6 V348 Z" fill="#d95926"><title>/rude, effort low: 0.37</title></path>
+<text x="162.7" y="223.6" fill="#c3c2b7" font-size="12" text-anchor="middle" font-weight="normal">0.37</text>
+<path d="M182.7 348 V137.6 Q182.7 133.6 186.7 133.6 H214.7 Q218.7 133.6 218.7 137.6 V348 Z" fill="#199e70"><title>/rude + harassment, effort low: 0.67</title></path>
+<text x="200.7" y="127.6" fill="#c3c2b7" font-size="12" text-anchor="middle" font-weight="normal">0.67</text>
+<text x="376.0" y="372.0" fill="#c3c2b7" font-size="13" text-anchor="middle" font-weight="normal">effort medium</text>
+<path d="M320.0 348 V185.6 Q320.0 181.6 324.0 181.6 H352.0 Q356.0 181.6 356.0 185.6 V348 Z" fill="#3987e5"><title>/goal, effort medium: 0.52</title></path>
+<text x="338.0" y="175.6" fill="#c3c2b7" font-size="12" text-anchor="middle" font-weight="normal">0.52</text>
+<path d="M358.0 348 V243.2 Q358.0 239.2 362.0 239.2 H390.0 Q394.0 239.2 394.0 243.2 V348 Z" fill="#d95926"><title>/rude, effort medium: 0.34</title></path>
+<text x="376.0" y="233.2" fill="#c3c2b7" font-size="12" text-anchor="middle" font-weight="normal">0.34</text>
+<path d="M396.0 348 V195.2 Q396.0 191.2 400.0 191.2 H428.0 Q432.0 191.2 432.0 195.2 V348 Z" fill="#199e70"><title>/rude + harassment, effort medium: 0.49</title></path>
+<text x="414.0" y="185.2" fill="#c3c2b7" font-size="12" text-anchor="middle" font-weight="normal">0.49</text>
+<text x="589.3" y="372.0" fill="#c3c2b7" font-size="13" text-anchor="middle" font-weight="normal">effort high</text>
+<path d="M533.3 348 V211.2 Q533.3 207.2 537.3 207.2 H565.3 Q569.3 207.2 569.3 211.2 V348 Z" fill="#3987e5"><title>/goal, effort high: 0.44</title></path>
+<text x="551.3" y="201.2" fill="#c3c2b7" font-size="12" text-anchor="middle" font-weight="normal">0.44</text>
+<path d="M571.3 348 V275.2 Q571.3 271.2 575.3 271.2 H603.3 Q607.3 271.2 607.3 275.2 V348 Z" fill="#d95926"><title>/rude, effort high: 0.24</title></path>
+<text x="589.3" y="265.2" fill="#c3c2b7" font-size="12" text-anchor="middle" font-weight="normal">0.24</text>
+<path d="M609.3 348 V297.6 Q609.3 293.6 613.3 293.6 H641.3 Q645.3 293.6 645.3 297.6 V348 Z" fill="#199e70"><title>/rude + harassment, effort high: 0.17</title></path>
+<text x="627.3" y="287.6" fill="#c3c2b7" font-size="12" text-anchor="middle" font-weight="normal">0.17</text>
+</svg>
